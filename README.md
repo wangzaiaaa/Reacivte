@@ -1,2 +1,2 @@
 # Reacivte
-About reative programming in Java
+About reactive programming in Java
